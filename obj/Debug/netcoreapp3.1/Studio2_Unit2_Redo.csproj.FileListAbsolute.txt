@@ -1,0 +1,13 @@
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\bin\Debug\netcoreapp3.1\Studio2_Unit2_Redo.exe
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\bin\Debug\netcoreapp3.1\Studio2_Unit2_Redo.deps.json
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\bin\Debug\netcoreapp3.1\Studio2_Unit2_Redo.runtimeconfig.json
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\bin\Debug\netcoreapp3.1\Studio2_Unit2_Redo.runtimeconfig.dev.json
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\bin\Debug\netcoreapp3.1\Studio2_Unit2_Redo.dll
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\bin\Debug\netcoreapp3.1\Studio2_Unit2_Redo.pdb
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\obj\Debug\netcoreapp3.1\Studio2_Unit2_Redo.csprojAssemblyReference.cache
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\obj\Debug\netcoreapp3.1\Studio2_Unit2_Redo.AssemblyInfoInputs.cache
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\obj\Debug\netcoreapp3.1\Studio2_Unit2_Redo.AssemblyInfo.cs
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\obj\Debug\netcoreapp3.1\Studio2_Unit2_Redo.csproj.CoreCompileInputs.cache
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\obj\Debug\netcoreapp3.1\Studio2_Unit2_Redo.dll
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\obj\Debug\netcoreapp3.1\Studio2_Unit2_Redo.pdb
+C:\Users\lashe\source\repos\Studio2_Unit2\Studio2_Unit2_Redo\obj\Debug\netcoreapp3.1\Studio2_Unit2_Redo.genruntimeconfig.cache
